@@ -1,0 +1,57 @@
+[
+    {
+      "id": 101,
+      "title": "Abstract Art Painting",
+      "description": "Modern abstract canvas painting with vivid colors.",
+      "currentBidPrice": 320.00,
+      "timeLeft": "1d 3h",
+      "bidsCount": 18,
+      "image": "https://i.postimg.cc/fRdhjWdN/images.jpg"
+    },
+    {
+      "id": 102,
+      "title": "Classic Vinyl Record Set",
+      "description": "Collection of 10 rare classic rock vinyl records.",
+      "currentBidPrice": 140.00,
+      "timeLeft": "2h 45m",
+      "bidsCount": 12,
+      "image": "https://i.postimg.cc/nzc55nXM/PVTTBT8-BK.jpg"
+    },
+    {
+      "id": 103,
+      "title": "Signed Football Jersey",
+      "description": "Authentic jersey signed by a legendary player.",
+      "currentBidPrice": 450.00,
+      "timeLeft": "3d 8h",
+      "bidsCount": 31,
+      "image": "https://i.postimg.cc/3N0L5NYr/gettyimages-1245889188-612x612.jpg"
+    },
+    {
+      "id": 104,
+      "title": "Antique Tea Set",
+      "description": "Porcelain tea set from 1900s with floral design.",
+      "currentBidPrice": 210.50,
+      "timeLeft": "6h 30m",
+      "bidsCount": 14,
+      "image": "https://i.postimg.cc/tCQ0RQfv/1735d59842dead4febe778c5aef17eb6-jpg-720x720q80.jpg"
+    },
+    {
+      "id": 105,
+      "title": "Luxury Wrist Watch",
+      "description": "Limited edition watch with gold-plated case.",
+      "currentBidPrice": 980.00,
+      "timeLeft": "4d 5h",
+      "bidsCount": 45,
+      "image": "https://i.postimg.cc/wjjwgw6b/294222192-2845485179079182-6363349369021151230-n.jpg"
+    },
+    {
+      "id": 106,
+      "title": "Handwoven Carpet",
+      "description": "Persian-style handwoven wool carpet.",
+      "currentBidPrice": 610.00,
+      "timeLeft": "1d 12h",
+      "bidsCount": 20,
+      "image": "https://i.postimg.cc/sXHVH6gd/handwovenrug-1.webp"
+    }
+  ]
+  
